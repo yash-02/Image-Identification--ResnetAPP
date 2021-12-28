@@ -1,1 +1,1 @@
-# Deployment-Deep-Learning-Model
+# Deployment-Resnet50-Model
